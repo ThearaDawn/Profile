@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: https://github.com/ThearaDawn/theara-profile
+    name: https://github.com/ThearaDawn/theara-profile/blob/main/profile-readme.md
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
