@@ -10,8 +10,7 @@ jobs:
     name: https://github.com/ThearaDawn/theara-profile
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v16
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://github.com/ThearaDawn"
