@@ -3,10 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/dawn-theara-789302116/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCRP6xDZcjOLFfv_KeA533zw">
+  <a href="https://www.youtube.com/@codestorykh/videos">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
@@ -21,7 +18,7 @@
 ### I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cambodia.
 - :telescope: I’m working as a Software Developer and contributing to the backend for building systems and REST API.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content Writing
 
 - :zap: In my free time, I watch and read tech articles.
 
