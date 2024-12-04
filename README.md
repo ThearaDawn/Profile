@@ -16,11 +16,11 @@
 ### 👨‍💻: About Me :
 
 ### I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cambodia.
-- :telescope: I’m working as a Software Developer and contributing to the backend for building systems and REST API.
+- :telescope: I’m a software developer contributing to the backend of building systems and REST API.
 
 - :seedling: Exploring Technical Content Writing
 
-- :zap: In my free time, I watch and read tech articles.
+- :zap: I watch and read tech articles in my free time.
 
 ---
 
@@ -43,6 +43,6 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CodeStoryKH&theme=shades-of-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=codestorykh)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeStoryKH&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
